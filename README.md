@@ -1,2 +1,2 @@
-# Project_39
-END GAME
+# Trex
+Trex runner game
